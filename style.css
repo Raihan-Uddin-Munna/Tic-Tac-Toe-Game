@@ -3,9 +3,27 @@
     padding: 0;
 }
 
+/* index2 */
+/* .img{
+    width: auto;
+    height: 500px;
+    margin: 10px 80px;
+}
+#start-btn{
+    font: bold;
+    margin: 10px 500px;
+} */
 
 
 
+
+
+
+
+.nav-ber:hover{
+    color: #78c5ec;
+    font-size: 40px;
+}
 
 
 nav{
@@ -18,11 +36,15 @@ nav{
     padding: 0 12px;
 }
 
-
+nav ul>li{
+  display: flex;
+   justify-content: space-around;
+}
 
 
 nav ul{
    list-style: none;
+ 
 }
 .gameInfo h1{
     font-size: 2.5rem;

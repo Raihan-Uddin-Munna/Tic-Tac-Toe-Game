@@ -96,3 +96,11 @@ turn = "X";
 isgameover = false
 document.getElementsByClassName("info")[0].innerText = "Turn for" + turn;
 })
+
+
+
+// document.getElementById("start-btn").addEventListener('click', function () {
+//    window.location.href = 'index.html';
+// })
+
+
